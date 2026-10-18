@@ -1,0 +1,14 @@
+TR STORE COPY — OWNED-TEXT DEMONSTRATION
+
+This is an AI-assisted localization of our own Queue Cues product copy, not a client credit or game-engine integration. Rows remaining/percent/help_link are explicitly synthetic format fixtures. example.com is a reserved fixture URL, not customer support.
+
+Editorial choices
+- Address one reader using the informal Turkish second person; avoid switching to formal siz.
+- Queue means an ordered task list: işlem sırası. Use shorter sıraya ekle / sıradan çıkar in action labels.
+- Crafting becomes üretim in this factory/UI context. A narrative fantasy game could need a different glossary.
+- Cue becomes ses rather than ipucu, which could imply a gameplay hint.
+- Preserve 24 event designs × 3 variants = 72 files, 12 free files and the optional USD5 price.
+- Keep format names PCM WAV / kHz and template placeholders untouched.
+- The license paragraph summarizes the existing sample license. No new legal interpretation or certified translation is offered.
+
+127/127 mechanical checks passed. Independent human review, Steamworks import, in-engine layout and actual customer language feedback have not been completed. No market conversion or sales improvement is promised.

@@ -1,0 +1,535 @@
+{
+  "sample": "Queue Cues owned-text demonstration",
+  "client_work": false,
+  "ai_assisted": true,
+  "independent_human_translation_review": false,
+  "steam_import_tested": false,
+  "engine_import_tested": false,
+  "source_words_approx": 249,
+  "segments": 22,
+  "checks_passed": 127,
+  "checks_total": 127,
+  "short_descriptions": [
+    {
+      "key": "short_a",
+      "target_unicode_characters": 224,
+      "self_imposed_budget": 300
+    },
+    {
+      "key": "short_b",
+      "target_unicode_characters": 237,
+      "self_imposed_budget": 300
+    }
+  ],
+  "checks": [
+    {
+      "name": "22 unique source keys",
+      "passed": true
+    },
+    {
+      "name": "Turkish alphabet retained",
+      "passed": true
+    },
+    {
+      "name": "No replacement characters",
+      "passed": true
+    },
+    {
+      "name": "short_a: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "short_a: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "short_a: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "short_a: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "short_a: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "short_a: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "short_b: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "short_b: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "short_b: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "short_b: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "short_b: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "short_b: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "headline: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "headline: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "headline: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "headline: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "headline: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "headline: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "intro: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "intro: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "intro: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "intro: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "intro: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "features: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "features: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "features: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "features: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "features: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "format: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "format: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "format: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "format: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "format: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "license_summary: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "license_summary: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "license_summary: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "license_summary: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "license_summary: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "limits: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "limits: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "limits: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "limits: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "limits: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "cta_preview: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "cta_preview: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "cta_preview: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "cta_preview: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "cta_preview: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "cta_preview: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "cta_full: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "cta_full: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "cta_full: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "cta_full: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "cta_full: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "cta_full: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "filter_all: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "filter_all: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "filter_all: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "filter_all: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "filter_all: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "filter_all: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "filter_queue: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "filter_queue: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "filter_queue: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "filter_queue: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "filter_queue: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "filter_queue: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "filter_crafting: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "filter_crafting: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "filter_crafting: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "filter_crafting: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "filter_crafting: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "filter_crafting: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "action_add: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "action_add: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_add: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_add: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "action_add: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "action_add: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "action_remove: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "action_remove: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_remove: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_remove: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "action_remove: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "action_remove: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "action_complete: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "action_complete: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_complete: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_complete: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "action_complete: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "action_complete: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "action_upgrade: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "action_upgrade: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_upgrade: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_upgrade: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "action_upgrade: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "action_upgrade: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "action_back: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "action_back: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_back: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_back: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "action_back: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "action_back: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "action_stop: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "action_stop: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_stop: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "action_stop: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "action_stop: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "action_stop: agreed demo character budget",
+      "passed": true
+    },
+    {
+      "name": "remaining: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "remaining: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "remaining: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "remaining: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "remaining: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "percent: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "percent: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "percent: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "percent: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "percent: newlines retained",
+      "passed": true
+    },
+    {
+      "name": "help_link: non-empty target",
+      "passed": true
+    },
+    {
+      "name": "help_link: placeholder identity/order",
+      "passed": true
+    },
+    {
+      "name": "help_link: markup identity/order",
+      "passed": true
+    },
+    {
+      "name": "help_link: numeric facts retained",
+      "passed": true
+    },
+    {
+      "name": "help_link: newlines retained",
+      "passed": true
+    }
+  ],
+  "note": "Mechanical checks protect keys, placeholders, markup, numeric facts, newlines and agreed demo budgets. They do not certify linguistic quality, layout fit, conversion or platform approval. 300 is a conservative demo budget, not a claim that a live Steamworks form was tested."
+}
